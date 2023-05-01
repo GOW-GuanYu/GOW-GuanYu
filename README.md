@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GOW-GuanYu&show_icons=true&count_private=true&hide_border=true&title_color=#ff0000&icon_color=#ff0000&text_color=#Ff2400_color=#ff0000" alt="Arthur Yvens github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOW-GuanYu&layout=compact&hide_border=true&title_color=#Ff24000text_color=#Ff2400&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GOW-GuanYu&show_icons=true&count_private=true&hide_border=true&title_color=#Ff2400&icon_color=ff91a4&text_color=#Ff2400&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOW-GuanYu&layout=compact&hide_border=true&title_color=#Ff2400&text_color=#Ff2400&bg_color=0d1117" />
 </div>
 
 
